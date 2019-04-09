@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>InitialScreen.qml</file>
+        <file>JavaScript.js</file>
+        <file>sources/images/settings.gif</file>
+        <file>sources/images/shutdown.gif</file>
+        <file>sources/images/terminal.gif</file>
+        <file>sources/images/apl.gif</file>
+    </qresource>
+</RCC>
